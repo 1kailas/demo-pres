@@ -1,0 +1,6 @@
+{
+  "name": "Bespoke Skill Atelier Portfolio",
+  "description": "An ultra-premium, interactive portfolio showcase featuring structural micro-animations, curated client exhibits, and a server-side AI Atelier Assistant designed to evaluate and draft bespoke project blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
